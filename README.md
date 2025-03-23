@@ -14,4 +14,7 @@ Hi and welcome to the **Challenge #2: Bug Smash** Your goal is to **fix all the 
 ### **1️⃣ Clone the Repository**  
 To get started, open a terminal and run...well, I hope you remember what to run
 
-Good Luck!
+### **2️⃣ Start Debugging** 
+Find as many bugs as you can and fix them before the time runs out
+
+Good luck!
